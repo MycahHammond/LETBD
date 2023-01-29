@@ -1,0 +1,3 @@
+# Learn Enough...
+
+This is a repository for my work with the [Learn Enough to Be Dangerous](https://www.learnenough.com/) tutorials. Great stuff. The Ruby course forward is by [Derek Sivers](https://sive.rs/). Using these courses to get a more well rounded and solid foundation.
